@@ -1,4 +1,4 @@
-# Alteryx and Tableau Datathon
+# Alteryx and Tableau Datathon Competition
 **A group of 3, competed against 24 other teams in a Datathon hosted by Alteryx and Tableau. Achieved 1st position!**
 
 ---

@@ -9,4 +9,4 @@ Analyzed raw data of school particulars (location of schools, education levels, 
 **In Tableau:**
 Analyzed raw data of HDB dataset to create a dashboard to enable select a HDB flat based client's different needs and filters.
 
-Link to download the raw dataset and final work files: 
+Link to download the raw dataset and final work files: https://drive.google.com/drive/folders/1ZvMle6hj1sCWNGtbjr78ZZMHRyBzHYxg?usp=share_link
